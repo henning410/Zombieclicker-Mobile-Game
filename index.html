@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="./images/zombie.png">    <!-- make sure favicon error is not apperaing -->
+    <title>MCI-2 Game</title>
+    <style>
+        * {
+            margin-top: 0;
+            margin-left: 0;
+            
+        }
+        #canvas01 {
+            position: fixed;
+            background-image: url('./images/background5.jpg');
+            background-position: left;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+
+<body>
+    <audio id="audio_reload" src="./sounds/reload.mp3"></audio>
+    <canvas id="canvas01" width="600" height="400">Kein Canvas.</canvas>
+    <pre>
+        <script type="module" src='./src/app.js'></script>
+    </pre>
+</body>
+
+</html>
