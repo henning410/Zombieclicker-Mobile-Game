@@ -1,6 +1,6 @@
 # Zombieclicker - mobile game
 
-## Link to play: https://www2.hs-esslingen.de/~heweit00/mci-2/Game/index.html
+## Link to play: https://henning410.github.io/Zombieclicker-Mobile-Game/
 
 Dieses Spiel ist im Zuge des Moduls "Mensch-Computer-Interaktion 2", betreut von Prof. Dr.-Ing. Rößler, entstanden. 
 
